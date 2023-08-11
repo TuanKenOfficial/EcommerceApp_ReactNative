@@ -5,9 +5,11 @@ import { COLORS } from '../../constants'
 
 const Carousel = () => {
     const slides = [
-        "https://i0.wp.com/hocjavascript.net/wp-content/uploads/2021/05/E-Commerce-la-gi-Co-vai-tro-gi-Cac-loai-hinh-thuong-mai-dien-tu.jpg",
-        "https://mrthanduc.files.wordpress.com/2018/08/abc1e32e-4ecd-49f8-aa24-52af2da89934.png",
-        "https://cdnimgen.vietnamplus.vn/t620/uploaded/wbxx/2019_09_22/ecommerce_in_vietnam.jpg",
+        "https://web4s.vn/uploads/tiny_uploads/tin/ecommerce/E-commerce.jpg",
+        "https://static.vinwonders.com/2022/04/dac-san-nha-trang-1.png",
+        "https://images.squarespace-cdn.com/content/v1/53883795e4b016c956b8d243/1563001815382-RKZSXSOGODXYBC4JP0O1/image-asset.jpeg",
+        "https://tcxd.vn/wp-content/uploads/2019/10/E-commerce-bao-gom-nhung-gi.jpg"
+       
     ]
   return (
     <View style={styles.carouselContainer}>

@@ -14,11 +14,7 @@ const Welcome = () => {
             <View style={styles.container}>
                 <Text style={styles.welcomeTxt(COLORS.black, SIZES.xSmall)}>
                     {" "}
-                    Tìm nhiều nhất
-                </Text>
-                <Text style={styles.welcomeTxt(COLORS.primary, 0)}>
-                    {" "}
-                    Nội thất
+                    Shop
                 </Text>
             </View>
             <View style={styles.searchContainer}>
